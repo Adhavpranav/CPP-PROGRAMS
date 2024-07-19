@@ -90,5 +90,6 @@ int main()
     {
         ob[i].accept();
     }
-    ob->menudriven(ob,limit);   
+    ob->menudriven(ob,limit);  
+    return 0;
 }
